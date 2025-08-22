@@ -1,2 +1,3 @@
 # Pagina_web_2
 mi segunda pagina web
+Esta es mi segunda pagina creada en HTML, los parametros para este fueron tener titulos y subtitulos, tener un fondo sin usar CSS, debe tener secciones y un menu, al darle clic al menu debe poder movilizarme a la seccion correspondiente, debe tener un formulario con los siguientes cambios(cuadro de texto, fechas.checkbox, radio butto) debe existir un boton de envio de formulatio los cuaros deben tenrr placeholder, tener hipervinculos hacia la pagina del SENA,  tener hipervincullos hacia videos, tener dos imagenes una local y otra con hipervinculo, debe tener una tabla, debe tener txtos con iconos, textos subrayados con color y negrita y por ultimo debe tener las siguientes etiquetas (header, footer, meta y tittle)
